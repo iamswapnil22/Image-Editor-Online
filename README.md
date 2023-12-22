@@ -21,7 +21,7 @@ Welcome to Image Editor Online, a user-friendly web application that allows you 
 
 ## Deployment
 
-The application is currently deployed on Vercel. I am also working on deploying it on AWS Cloud for a more versatile hosting solution.
+The application is currently deployed on **Vercel**. I am also working on deploying it on **AWS Cloud** for a more versatile hosting solution.
 
 ## Feedback
 
