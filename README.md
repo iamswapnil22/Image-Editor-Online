@@ -25,4 +25,4 @@ The application is currently deployed on **Vercel**. I am also working on deploy
 
 ## Feedback
 
-Your feedback is important to us. If you encounter any issues or have suggestions for improvement, please don't hesitate to contact us.
+Your feedback is important to me. If you encounter any issues or have suggestions for improvement, please don't hesitate to contact me.
