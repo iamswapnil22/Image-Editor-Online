@@ -72,6 +72,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
 .editor-panel button {
   outline: none;
   height: 40px;
